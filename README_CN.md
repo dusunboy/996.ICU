@@ -1,6 +1,6 @@
 [996.ICU](https://996.icu/#/zh_CN)
 =======
-### **请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
+**请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
 
 * [English version](./README.md)
 
@@ -8,7 +8,7 @@
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
+[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
 [![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
 
@@ -27,6 +27,16 @@
 
 “996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
 
+
+我能做什么？
+---
+- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。[为不熟悉GitHub劳动者准备的提交渠道](https://www.996action.com/index.php/889799)
+- 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
+- 为你的项目添加[反 996 许可证](LICENSE_CN)。
+- 给社区与项目发展提出新的[议案](proposal/README.md)。
+- 下午6点钟下班回家。
+- 企业和群众可以登录中国政府网（www.gov.cn） 或下载国务院客户端，进入国务院“互联网+督查”专栏，也可以关注中国政府网微信公众号，进入国务院“互联网+督查”小程序提供线索、反映问题、提出建议。国务院办公厅将对收到的问题线索和意见建议进行汇总整理，督促有关地方、部门处理。对企业和群众反映强烈、带有普遍性的重要问题线索，国务院办公厅督查室将直接派员督查。经查证属实、较为典型的问题，将予以公开曝光、严肃处理。 
+
 各界声音
 ---
 
@@ -37,21 +47,11 @@
 - **马云, 阿里巴巴创始人**: `“996”是一种福报`。
 - **刘强东，京东创始人**: `京东不会强制995或者996`。
 但是有许多员工匿名表示，公司内部有一个“加班排名表”，列举了各个部门的加班情况排名，排名低的部门会受到惩罚。领导们安排996工作时，也会注意不留下证据。
-- **Bai Ya, 有赞CEO**: `几年后回看，这次绝对是好事`。
+- **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
 
-
-
-我能做什么？
----
-- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。
-- 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
-- 为你的项目添加[反 996 许可证](LICENSE_CN)。
-- 给社区与项目发展提出新的[议案](proposal/README.md)。
-- 下午6点钟下班回家。
 
 原则和目的
 ---
-
 
 * 首先需要申明的是这不是一个政治运动，我们每个人都坚定维护劳动法，但我们同时要求雇主也要尊重雇员的合法权益。
 

@@ -1,6 +1,6 @@
 [996.ICU](https://996.icu/#/en_US)
 =======
-### **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
+**Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
 * [中文版](./README_CN.md)
 
@@ -8,7 +8,7 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
+[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
 [![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
 
@@ -32,7 +32,7 @@ Visit [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_s
 What can I do?
 ---
 
-- Update this [list](blacklist/README.md) with evidence to help every worker.  
+- Update this [list](blacklist/README.md) with evidence to help every worker.  [Third party perfect list channel](https://www.996action.com/index.php/889799)
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
@@ -47,7 +47,7 @@ Voices
 
 
 ### Capitalists
-- **Jack Ma, founder of Alibaba**: `'996' is a reward`.
+- **Jack Ma, founder of Alibaba**: `'996' is a huge blessing`.
 - **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
 However, as a result many anonymous employees says that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when ask employees to work as '996'.
 - **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years`
